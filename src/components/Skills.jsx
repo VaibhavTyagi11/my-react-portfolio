@@ -37,7 +37,7 @@ export default function Skills() {
       style: "shadow-yellow-300",
     },
     {
-      id: 4,
+      id: 5,
       src: figmaimg,
       title: "Figma",
       style: "shadow-red-300",
