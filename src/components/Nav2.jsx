@@ -19,10 +19,7 @@ export default function Nav2() {
       id: 3,
       link: "Skills",
     },
-    // {
-    //   id: 4,
-    //   link: "Experience",
-    // },
+    
     {
       id: 5,
       link: "Contact",
