@@ -40,7 +40,7 @@ export default function SocialMedia() {
           Resume<BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: '/NResume.pdf',
+      href: '/Resume.pdf',
       style: "rounded-br-lg",
       download: "true",
     },
